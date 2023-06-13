@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/3gis_host/static/css/main.e89c4c67.css",
-    "main.js": "/3gis_host/static/js/main.9fbd7074.js",
+    "main.css": "/3gis_host/static/css/main.22d57967.css",
+    "main.js": "/3gis_host/static/js/main.4d854c13.js",
     "static/media/VETERANS.jpg": "/3gis_host/static/media/VETERANS.2f5bf1740deb818d16b6.jpg",
     "static/media/TRUD.jpg": "/3gis_host/static/media/TRUD.d71350715ca9c65020b8.jpg",
     "static/media/SP.jpg": "/3gis_host/static/media/SP.bc976cd7862f4486b86b.jpg",
@@ -80,11 +80,11 @@
     "static/media/HUDSUR.jpg": "/3gis_host/static/media/HUDSUR.62d7a4d9f04627b1267f.jpg",
     "static/media/SOKOL.jpg": "/3gis_host/static/media/SOKOL.9c343b7959938ab7c1b0.jpg",
     "index.html": "/3gis_host/index.html",
-    "main.e89c4c67.css.map": "/3gis_host/static/css/main.e89c4c67.css.map",
-    "main.9fbd7074.js.map": "/3gis_host/static/js/main.9fbd7074.js.map"
+    "main.22d57967.css.map": "/3gis_host/static/css/main.22d57967.css.map",
+    "main.4d854c13.js.map": "/3gis_host/static/js/main.4d854c13.js.map"
   },
   "entrypoints": [
-    "static/css/main.e89c4c67.css",
-    "static/js/main.9fbd7074.js"
+    "static/css/main.22d57967.css",
+    "static/js/main.4d854c13.js"
   ]
 }
